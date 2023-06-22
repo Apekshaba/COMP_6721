@@ -27,7 +27,6 @@ Neural Networks:
    numpy: pip install numpy
    scikit-learn: pip install scikit-learn
    tensorflow: pip install tensorflow
-2. Data: Obtain the data from Data/ loan_train_sampled.csv and set the right path.
 2. Training and testing the model:
      Obtain the training and testing data, from the "Data" directory ("loan_train_sampled.csv" and "loan_test.csv").
      Please ensure that the file paths in the for the training data is correctly added.
