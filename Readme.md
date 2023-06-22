@@ -3,35 +3,39 @@ Accurately assessing the creditworthiness of borrowers is vital for financial in
 
 Supervised Decision Trees & Semi Supervised Decision Trees:
 
-1. Packages Used & their installation commands.
-       pandas: pip install pandas
-       matplotlib: pip install matplotlib
-       numpy: pip install numpy
-       scikit-learn: pip install scikit-learn
-       category_encodes: pip install category_encoders
-2. Training and testing the model:
-          Obtain the training and testing data, from the "Data" directory ("loan_train_sampled.csv" and "loan_test.csv").
-          Please ensure that the file paths in the for the training data and testing data is correctly added.
-          After installing all the necessary packages and setting the PATH for the Data. Please Select RUN ALL cells in
+Packages Used & their installation commands:
+1. pandas: pip install pandas
+2. matplotlib: pip install matplotlib
+3. numpy: pip install numpy
+4. scikit-learn: pip install scikit-learn
+5. category_encodes: pip install category_encoders
+
+Training and testing the model:
+1. Obtain the training and testing data, from the "Data" directory ("loan_train_sampled.csv" and "loan_test.csv").
+2. Please ensure that the file paths in the for the training data and testing data is correctly added.
+3. After installing all the necessary packages and setting the PATH for the Data. Please Select RUN ALL cells in
                 Code/DecisionTree.ipynb
                 Code/Semi_supervised_decision_trees.ipynb
 
 
 Neural Networks:
 
-1. Packages Used & their installation commands
-   pandas: pip install pandas
-   matplotlib: pip install matplotlib
-   seaborn: pip install seaborn
-   tensorflow and keras: pip install tensorflow
-   numpy: pip install numpy
-   scikit-learn: pip install scikit-learn
-   tensorflow: pip install tensorflow
-2. Training and testing the model:
-     Obtain the training and testing data, from the "Data" directory ("loan_train_sampled.csv" and "loan_test.csv").
-     Please ensure that the file paths in the for the training data is correctly added.
-     After installing all the necessary packages and setting the PATH for the Data. Please Select RUN ALL cells in
+Packages Used & their installation commands
+1. pandas: pip install pandas
+2. matplotlib: pip install matplotlib
+3. seaborn: pip install seaborn
+4. tensorflow and keras: pip install tensorflow
+5. numpy: pip install numpy
+6. scikit-learn: pip install scikit-learn
+7. tensorflow: pip install tensorflow
+
+Training and testing the model:
+1. Obtain the training and testing data, from the "Data" directory ("loan_train_sampled.csv" and "loan_test.csv").
+2. Please ensure that the file paths in the for the training data is correctly added.
+3. After installing all the necessary packages and setting the PATH for the Data. Please Select RUN ALL cells in
          Code/NeuralNet.ipynb
 
+
 Video presentation Link: https://drive.google.com/drive/folders/1u3PU1dogyHLYLIOKg-26IBC_4ZObRZNB?usp=drive_link
+
 Original DATA link: https://www.kaggle.com/datasets/abhishek14398/loan-dataset
